@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body{
-  background: #faffd1;
+  background: #ffff;
 }
 #container{
   display:flex;
@@ -61,7 +61,7 @@ main{
 .preco{
   font-weight: 700;
   margin-top: 50px;
-  color:rgb(12, 158, 24);
+  color:rgb(215, 11, 181);
   font-size: 1.7rem;
 }
 button{
