@@ -32,7 +32,7 @@ header nav ul li a{
   padding: 5px 10px;
 }
 header nav ul li a:hover{
-    text-decoration: underline 5px rgb(161, 128, 252), 255;
+    text-decoration: underline 5px rgb(82, 122, 255), 255;
 }
 #conteudo{
   display:grid;
@@ -45,13 +45,14 @@ main{
 }
 .produto{
   width: 200px;
-  height: 400px; 
+  height: 550px; 
   margin: 20px;
   padding: 20px;
   border: 1px solid #ddd;
-  background-image: linear-gradient(#021b2b,#784ba0,#6a1d49);
-  color:#fff;
+  background-image: linear-gradient(#021b2b,#734ba0,#6a1d49);
+  color:#f0f0f0;
   border-radius: 30px;
+  text-align: center;
 }
 .produto img{
   max-width: 100%;
@@ -61,11 +62,11 @@ main{
 .preco{
   font-weight: 700;
   margin-top: 50px;
-  color:rgb(215, 11, 181);
+  color:rgb(7, 190, 105);
   font-size: 1.7rem;
 }
 button{
-  background: aquamarine;
+  background: orange;
   margin-top: 30px;
   padding: 15px 45px;
   border-radius: 20px;
