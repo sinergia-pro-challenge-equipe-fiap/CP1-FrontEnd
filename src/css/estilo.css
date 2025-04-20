@@ -139,4 +139,21 @@ footer{
       color:#fff;/*COR DA FONTE*/
       text-decoration: none;
   }
+
+  #conteudo{
+      grid-template-columns: 1fr;
+  }
+  aside{
+      display: none;
+
+  }
+
+  .footer-content{
+      display: flex;
+      text-align: center;
+      flex-direction: column;
+      max-width: 100%;
+      margin: 0 auto;
+  
+}
 }
